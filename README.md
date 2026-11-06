@@ -8,7 +8,11 @@
 
 ## 当前阶段
 
-已形成工作流 v0.1，通用方法见 [方法笔记](docs/METHOD_NOTES.md)。工作流尚待一次端到端创作验证。
+已形成工作流 v0.1，通用方法见 [方法笔记](docs/METHOD_NOTES.md)。已完成一次 Midjourney 参考输入、候选生成、局部编辑与文件归档实验，完整交付验收仍待验证。
+
+当前项目：[羽毛笔与静水](projects/2026-11-06-feather-river/README.md)，包含当前选定图、三张同轮候选、编辑输入及实际提示词。当前选定图待用户确认。
+
+![羽毛笔与静水](projects/2026-11-06-feather-river/images/selected.jpg)
 
 ## 已明确的工作要求
 
