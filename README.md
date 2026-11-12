@@ -10,9 +10,11 @@
 
 已形成工作流 v0.1，通用方法见 [方法笔记](docs/METHOD_NOTES.md)。已完成一次 Midjourney 参考输入、候选生成、局部编辑与文件归档实验，完整交付验收仍待验证。
 
-当前项目：[羽毛笔与静水](projects/2026-11-06-feather-river/README.md)，包含当前选定图、三张同轮候选、编辑输入及实际提示词。当前选定图待用户确认。
+当前项目：[设计的生境 · 自然元素视觉系统](projects/2026-11-12-nature-symbols/README.md)。A 光谱渐变为当前主方向，树叶、河流、露珠、蜂巢、蝴蝶分别采用鲜绿、青蓝、紫色、琥珀橙、玫红主色；同时保留 B 手绘水粉、C 黑白版画、D 纸构雕塑三个可选方向。图像已通过视觉方向审核，发布规格验收待完成。
 
-![羽毛笔与静水](projects/2026-11-06-feather-river/images/selected.jpg)
+![自然元素视觉系统](projects/2026-11-12-nature-symbols/previews/overview.jpg)
+
+项目归档：[羽毛笔与静水](projects/2026-11-06-feather-river/README.md)。
 
 ## 已明确的工作要求
 
