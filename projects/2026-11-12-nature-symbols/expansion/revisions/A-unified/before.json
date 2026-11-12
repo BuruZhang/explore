@@ -1,0 +1,62 @@
+[
+  {
+    "group": "A-gradient",
+    "element": "crystal",
+    "name": "晶体",
+    "domain": "三维设计",
+    "file": "revisions/A-unified/crystal-before.jpg",
+    "width": 1024,
+    "height": 1024,
+    "jobId": "5300e436-938b-48f5-bf4e-0573b3104540",
+    "index": 0,
+    "source": "https://alpha.midjourney.com/jobs/5300e436-938b-48f5-bf4e-0573b3104540?index=0",
+    "prompt": "Refined airbrushed crystal symbol. ONE compact abstract mineral made of three short chunky interlocking prisms, only a few broad faceted planes, rounded transitions, no surface fractures. Saturated cobalt BLUE ONLY, icy blue and deep navy. Soft translucent airbrushed editorial 2.5D graphic, simplified broad colored planes and luminous overlaps, restrained soft gradients, smooth abstract graphic surfaces, no photographic material rendering. At least 90 percent of the colored silhouette belongs to the named single hue family. SINGLE COMPLETE SYMBOL centered on plain white background, generous white margins on all four sides, clear readable outer contour, no hard cast shadow. --ar 1:1 --raw --s 75 --chaos 0 --sref https://cdn.midjourney.com/1fae9c58-6cd3-4a72-8381-d8e930e85fd0/0_0.jpeg --sw 35 --no text typography logo watermark frame scenery rainbow green lime",
+    "review": "助手初选，待用户视觉确认",
+    "notes": ""
+  },
+  {
+    "group": "A-gradient",
+    "element": "shell",
+    "name": "贝壳",
+    "domain": "印刷与实体物料",
+    "file": "revisions/A-unified/shell-before.jpg",
+    "width": 1024,
+    "height": 1024,
+    "jobId": "9232272a-46d9-4dc5-9b66-5f91d94627dd",
+    "index": 2,
+    "source": "https://alpha.midjourney.com/jobs/9232272a-46d9-4dc5-9b66-5f91d94627dd?index=2",
+    "prompt": "Refined airbrushed shell symbol. ONE complete fan-shaped scallop shell, seven broad radiating ribs and sparse layered edges, soft scalloped contour. Warm TERRACOTTA BROWN ONLY with copper orange and pale peach highlights. Soft translucent airbrushed editorial 2.5D graphic, simplified broad colored planes and luminous overlaps, restrained soft gradients, smooth abstract graphic surfaces, no photographic material rendering. At least 90 percent of the colored silhouette belongs to the named single hue family. SINGLE COMPLETE SYMBOL centered on plain white background, generous white margins on all four sides, clear readable outer contour, no hard cast shadow. --ar 1:1 --raw --s 75 --chaos 0 --sref https://cdn.midjourney.com/fffbbe72-18d3-41cc-80fa-2b28d06dd1d2/0_1.jpeg --sw 35 --no text typography logo watermark frame scenery rainbow green lime",
+    "review": "助手初选，待用户视觉确认",
+    "notes": "与原组相比实体材质感较强，可在下一轮进一步简化表面。"
+  },
+  {
+    "group": "A-gradient",
+    "element": "pond",
+    "name": "池塘",
+    "domain": "互动场景",
+    "file": "revisions/A-unified/pond-before.jpg",
+    "width": 1024,
+    "height": 1024,
+    "jobId": "71dfbdc0-0b77-45a4-8d35-092eaf4dcb8c",
+    "index": 3,
+    "source": "https://alpha.midjourney.com/jobs/71dfbdc0-0b77-45a4-8d35-092eaf4dcb8c?index=3",
+    "prompt": "Refined airbrushed pond symbol. ONE miniature oval pond emblem from a gentle elevated viewpoint, one flattened water surface, two small lily pads, one pebble, one delicate circular ripple. Deep TURQUOISE TEAL ONLY with pale aqua and dark petrol teal. Soft translucent airbrushed editorial 2.5D graphic, simplified broad colored planes and luminous overlaps, restrained soft gradients, smooth abstract graphic surfaces, no photographic material rendering. At least 90 percent of the colored silhouette belongs to the named single hue family. SINGLE COMPLETE SYMBOL centered on plain white background, generous white margins on all four sides, clear readable outer contour, no hard cast shadow. --ar 1:1 --raw --s 75 --chaos 0 --sref https://cdn.midjourney.com/1fae9c58-6cd3-4a72-8381-d8e930e85fd0/0_0.jpeg --sw 35 --no text typography logo watermark frame scenery rainbow green lime",
+    "review": "助手初选，待用户视觉确认",
+    "notes": "青绿色与水面层次成立，荷叶与可探索生境的识别仍可强化。"
+  },
+  {
+    "group": "A-gradient",
+    "element": "mycelium",
+    "name": "菌丝",
+    "domain": "AI 创作与工作流",
+    "file": "revisions/A-unified/mycelium-before.jpg",
+    "width": 1024,
+    "height": 1024,
+    "jobId": "32732e82-4964-422b-8d6c-25d81976d39e",
+    "index": 0,
+    "source": "https://alpha.midjourney.com/jobs/32732e82-4964-422b-8d6c-25d81976d39e?index=0",
+    "prompt": "Refined airbrushed mycelium symbol. ONE sparse branching organic network emblem, five small junctions connected by thick tapering strands, irregular asymmetry, several clearly visible WHITE GAPS, junctions not oversized balls, no blurry blobs. Deep INDIGO BLUE VIOLET ONLY with pale periwinkle and dark indigo. Soft translucent airbrushed editorial 2.5D graphic, simplified broad colored planes and luminous overlaps, restrained soft gradients, smooth abstract graphic surfaces, no photographic material rendering. At least 90 percent of the colored silhouette belongs to the named single hue family. SINGLE COMPLETE SYMBOL centered on plain white background, generous white margins on all four sides, clear readable outer contour, no hard cast shadow. --ar 1:1 --raw --s 75 --chaos 0 --sref https://cdn.midjourney.com/d9822b12-642c-4cd9-a52d-cc8deb998b69/0_1.jpeg --sw 35 --no text typography logo watermark frame scenery rainbow green lime",
+    "review": "助手初选，待用户视觉确认",
+    "notes": "已收敛独立配色，仍可加强细长分支与连接，减少分子团块感。"
+  }
+]

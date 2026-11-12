@@ -1,0 +1,62 @@
+[
+  {
+    "group": "A-gradient",
+    "element": "crystal",
+    "name": "晶体",
+    "domain": "三维设计",
+    "file": "revisions/A-quality-v6/crystal-before.jpg",
+    "width": 1024,
+    "height": 1024,
+    "jobId": "c5c2d6be-4f7e-4a45-b5da-ae8c15d5634d",
+    "index": 2,
+    "source": "https://alpha.midjourney.com/jobs/c5c2d6be-4f7e-4a45-b5da-ae8c15d5634d?index=2",
+    "prompt": "Unified gradient crystal emblem revision three. THREE overlapping elongated polygon shapes of unequal height, each with ONE pointed top and two broad gently curved interior planes. A compact angular mineral silhouette drawn as an abstract graphic, visible white notches between the three tips, cobalt blue and pale periwinkle. Interior volume expressed ONLY by diffuse tonal gradients, NO faceted refraction. Contemporary FLAT AIRBRUSH GRAPHIC ILLUSTRATION matching a translucent gradient leaf and S-river symbol set. 2D silhouette with subtle 2.5D overlapping color planes, soft luminous center-to-edge shading, frosted luminous color transitions, broad quiet color masses. Almost no physical thickness, no photographic lighting. Object floating alone on PURE WHITE with no ground plane and NO CAST SHADOW. Entire compact silhouette centered with 15 percent white margins. Single hue family only. --ar 1:1 --raw --s 50 --chaos 0 --sref https://cdn.midjourney.com/1fae9c58-6cd3-4a72-8381-d8e930e85fd0/0_0.jpeg --sw 250 --no text logo letters watermark photography photorealism glass gemstone caustics reflections sculpture pedestal shadow texture stripes",
+    "review": "按用户反馈修订，助手初选，待用户确认",
+    "notes": "减少硬切面与反射，以少量重叠色面表现体积。"
+  },
+  {
+    "group": "A-gradient",
+    "element": "shell",
+    "name": "贝壳",
+    "domain": "印刷与实体物料",
+    "file": "revisions/A-quality-v6/shell-before.jpg",
+    "width": 1024,
+    "height": 1024,
+    "jobId": "6ca246d7-0d79-44c6-832e-d48830e88b13",
+    "index": 1,
+    "source": "https://alpha.midjourney.com/jobs/6ca246d7-0d79-44c6-832e-d48830e88b13?index=1",
+    "prompt": "Unified gradient shell emblem revision three. ONE broad fan-shaped scallop silhouette made of FIVE translucent overlapping rounded petal-like lobes radiating from one tapered lower point. Only five broad soft gradient bands, a softly scalloped top edge. Warm muted copper and peach orange. Abstract graphic contour, completely smooth interior, no thin ribs, no grooves, no natural surface texture. Contemporary FLAT AIRBRUSH GRAPHIC ILLUSTRATION matching a translucent gradient leaf and S-river symbol set. 2D silhouette with subtle 2.5D overlapping color planes, soft luminous center-to-edge shading, frosted luminous color transitions, broad quiet color masses. Almost no physical thickness, no photographic lighting. Object floating alone on PURE WHITE with no ground plane and NO CAST SHADOW. Entire compact silhouette centered with 15 percent white margins. Single hue family only. --ar 1:1 --raw --s 50 --chaos 0 --sref https://cdn.midjourney.com/fffbbe72-18d3-41cc-80fa-2b28d06dd1d2/0_1.jpeg --sw 250 --no text logo letters watermark photography photorealism glass gemstone caustics reflections sculpture pedestal shadow texture stripes",
+    "review": "按用户反馈修订，助手初选，待用户确认",
+    "notes": "以宽幅渐变扇面替代细密沟槽。"
+  },
+  {
+    "group": "A-gradient",
+    "element": "pond",
+    "name": "池塘",
+    "domain": "互动场景",
+    "file": "revisions/A-quality-v6/pond-before.jpg",
+    "width": 1024,
+    "height": 1024,
+    "jobId": "10b082d7-b3df-43d8-af7a-d94fe496998b",
+    "index": 2,
+    "source": "https://alpha.midjourney.com/jobs/10b082d7-b3df-43d8-af7a-d94fe496998b?index=2",
+    "prompt": "Readable gradient pond emblem revision four. A simple FLAT TOP DOWN POND symbol: ONE broad irregular kidney-shaped WATER PATCH contains THREE THIN concentric elliptical RIPPLE LINES at its center. TWO clearly recognizable LILY PADS sit partly on the water at opposite edges: each pad is a flat circle with a triangular wedge missing, like a notched leaf. All objects remain flat and separated by crisp negative space. Water is one smooth teal translucent gradient silhouette, lily pads deeper teal, ripple lines pale aqua. Soft airbrushed luminous 2.5D editorial graphic, very simplified large shapes, gentle frosted overlapping gradients matching a soft gradient river and dew icon family. White background, no ground plane, no cast shadow, no physical thickness. Complete compact emblem centered with large white margins. --ar 1:1 --raw --s 50 --chaos 0 --sref https://cdn.midjourney.com/1fae9c58-6cd3-4a72-8381-d8e930e85fd0/0_0.jpeg --sw 50 --no text logo typography photography glass sculpture plate pedestal spheres balls bubbles blobs",
+    "review": "按用户反馈修订，助手初选，待用户确认",
+    "notes": "俯视水面、缺口荷叶与涟漪，强化池塘识别。"
+  },
+  {
+    "group": "A-gradient",
+    "element": "mycelium",
+    "name": "菌丝",
+    "domain": "AI 创作与工作流",
+    "file": "revisions/A-quality-v6/mycelium-before.jpg",
+    "width": 1024,
+    "height": 1024,
+    "jobId": "a6c59bab-8b1d-41b2-8998-cc2622e122cd",
+    "index": 0,
+    "source": "https://alpha.midjourney.com/jobs/a6c59bab-8b1d-41b2-8998-cc2622e122cd?index=0",
+    "prompt": "Unified gradient mycelium emblem revision three. ONE organic MYCELIUM ROOT NETWORK emblem, viewed flat from above: THREE slender wavy strands enter from the LEFT, BRANCH into several thinner root-like tendrils, RECONNECT at TWO tiny junctions and MERGE into ONE thicker curved strand exiting RIGHT. The overall shape is wider than tall, airy open WHITE GAPS separate the branching pathways. Ends taper naturally into fine threads. A clear interconnected root system, readable input-branch-merge flow. Indigo blue-violet and lavender. Junctions same width as strands, NO round ball nodes, NO central blob, NO mushroom caps. Contemporary FLAT AIRBRUSH GRAPHIC ILLUSTRATION matching a translucent gradient leaf and S-river symbol set. 2D silhouette with subtle 2.5D overlapping color planes, soft luminous center-to-edge shading, frosted luminous color transitions, broad quiet color masses. Almost no physical thickness, no photographic lighting. Object floating alone on PURE WHITE with no ground plane and NO CAST SHADOW. Entire compact silhouette centered with 15 percent white margins. Single hue family only. --ar 1:1 --raw --s 50 --chaos 0 --sref https://cdn.midjourney.com/d9822b12-642c-4cd9-a52d-cc8deb998b69/0_1.jpeg --sw 250 --no text logo letters watermark photography photorealism glass gemstone caustics reflections sculpture pedestal shadow texture stripes",
+    "review": "按用户反馈修订，助手初选，待用户确认",
+    "notes": "以细长分支、连接与流向表达协同创作，保留自然网络隐喻；仍需结合文字识别。"
+  }
+]
