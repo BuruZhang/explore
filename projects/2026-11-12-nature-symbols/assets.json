@@ -158,5 +158,71 @@
     "width": 1024,
     "height": 1024,
     "review": "视觉方向审核通过"
+  },
+  {
+    "group": "E-material",
+    "element": "leaf",
+    "file": "images/E-material/leaf-qa-v3.jpg",
+    "review": "已逐张检查完整轮廓、材质体积与无文字要求；待用户确认",
+    "name": "树叶",
+    "domain": "品牌识别",
+    "width": 1024,
+    "height": 1024,
+    "stage": "助手审核通过",
+    "sourceNote": "原始文件保留于工作区 output/nature-elements-mj-20261112/selected/",
+    "jobId": "b7dfe25f-d17c-4951-b1c6-52e63680d41b",
+    "index": 3,
+    "source": "https://alpha.midjourney.com/jobs/b7dfe25f-d17c-4951-b1c6-52e63680d41b?index=3"
+  },
+  {
+    "group": "E-material",
+    "element": "river",
+    "file": "images/E-material/river-qa-v3.jpg",
+    "review": "已逐张检查完整轮廓、材质体积与无文字要求；待用户确认",
+    "name": "河流",
+    "domain": "产品体验",
+    "width": 1024,
+    "height": 1024,
+    "stage": "助手审核通过",
+    "sourceNote": "原始文件保留于工作区 output/nature-elements-mj-20261112/selected/",
+    "jobId": "3e5dd67b-21b2-42c6-8b83-0b90b0f06daf",
+    "index": 2,
+    "source": "https://alpha.midjourney.com/jobs/3e5dd67b-21b2-42c6-8b83-0b90b0f06daf?index=2"
+  },
+  {
+    "group": "E-material",
+    "element": "dew",
+    "file": "images/E-material/dew.jpg",
+    "review": "原有选定图",
+    "name": "露珠",
+    "domain": "界面设计",
+    "width": 1024,
+    "height": 1024,
+    "stage": "原有",
+    "sourceNote": "原始文件保留于工作区 output/nature-elements-mj-20261112/selected/"
+  },
+  {
+    "group": "E-material",
+    "element": "honeycomb",
+    "file": "images/E-material/honeycomb.jpg",
+    "review": "原有选定图",
+    "name": "蜂巢",
+    "domain": "设计系统",
+    "width": 1024,
+    "height": 1024,
+    "stage": "原有",
+    "sourceNote": "原始文件保留于工作区 output/nature-elements-mj-20261112/selected/"
+  },
+  {
+    "group": "E-material",
+    "element": "butterfly",
+    "file": "images/E-material/butterfly.jpg",
+    "review": "原有选定图",
+    "name": "蝴蝶",
+    "domain": "动态设计",
+    "width": 1024,
+    "height": 1024,
+    "stage": "原有",
+    "sourceNote": "原始文件保留于工作区 output/nature-elements-mj-20261112/selected/"
   }
 ]
